@@ -19,6 +19,12 @@ third_party/
 buildtools/
 tools/
 
+# Cmake generated files
+*.cmake
+CMakeFiles
+Makefile
+*.tcl
+
 # Random OS stuff
 .DS_Store
 ._*

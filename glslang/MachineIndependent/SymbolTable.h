@@ -65,6 +65,7 @@
 //   are tracked in the intermediate representation, not the symbol table.
 //
 
+#include <cstdint>
 #include "../Include/Common.h"
 #include "../Include/intermediate.h"
 #include "../Include/InfoSink.h"
